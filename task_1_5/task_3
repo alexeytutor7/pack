@@ -1,0 +1,4 @@
+Проверяем через https://pypi.org/project/web3/. Важна репутация, надежность и безопасность
+
+pip install web3
+pip freeze > requirements.txt
